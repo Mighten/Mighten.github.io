@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on Mighten&#39;s Blog</title>
+    <link>https://mighten.github.io/tags/devops/</link>
+    <description>Recent content in DevOps on Mighten&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Mighten Dai</copyright>
+    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://mighten.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maven</title>
+      <link>https://mighten.github.io/2023/06/maven/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/maven/</guid>
+      <description>
+        
+          
+            ***Maven*** is a *project management tool* that is based on *POM* (*project object model*). It is used for **projects build**, **dependency** and **documentation**.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://mighten.github.io/2023/06/docker/</link>
+      <pubDate>Sat, 17 Jun 2023 23:10:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/docker/</guid>
+      <description>
+        
+          
+            ***Docker*** is a platform for *developing*, *shipping*, and *deploying* applications quickly in **portable, self-sufficient containers**, and is used in the **Continuous Deployment (CD)** stage of the **DevOps** ecosystem.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>PuTTY with OpenSSH</title>
+      <link>https://mighten.github.io/2023/06/putty-with-openssh/</link>
+      <pubDate>Sat, 17 Jun 2023 22:08:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/putty-with-openssh/</guid>
+      <description>
+        
+          
+            Today we use ***OpenSSH*** and ***PuTTY*** to log in remote computers.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

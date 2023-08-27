@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DDIA on Mighten&#39;s Blog</title>
+    <link>https://mighten.github.io/series/ddia/</link>
+    <description>Recent content in DDIA on Mighten&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Mighten Dai</copyright>
+    <lastBuildDate>Thu, 19 May 2022 22:06:00 +0800</lastBuildDate><atom:link href="https://mighten.github.io/series/ddia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDIA Ch01: Reliable, Scalable, and Maintainable Applications</title>
+      <link>https://mighten.github.io/2022/05/ddia-ch01-reliable-scalable-and-maintainable-applications/</link>
+      <pubDate>Thu, 19 May 2022 22:06:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2022/05/ddia-ch01-reliable-scalable-and-maintainable-applications/</guid>
+      <description>
+        
+          
+            *Chapter 01: Reliable, Scalable, and Maintainable Applications* of **Designing Data-Intensive Applications**
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

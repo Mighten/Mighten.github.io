@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System Design on Mighten&#39;s Blog</title>
+    <link>https://mighten.github.io/tags/system-design/</link>
+    <description>Recent content in System Design on Mighten&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Mighten Dai</copyright>
+    <lastBuildDate>Tue, 13 Jun 2023 09:00:00 +0800</lastBuildDate><atom:link href="https://mighten.github.io/tags/system-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIT 6.033 CSE Security</title>
+      <link>https://mighten.github.io/2023/06/mit-6.033-cse-security/</link>
+      <pubDate>Tue, 13 Jun 2023 09:00:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/mit-6.033-cse-security/</guid>
+      <description>
+        
+          
+            Section ***Security*** of MIT 6.033 shows ***common pitfalls*** in the security of computer systems, and ways to *combat* them.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Distributed Systems</title>
+      <link>https://mighten.github.io/2023/06/mit-6.033-cse-distributed-systems/</link>
+      <pubDate>Tue, 06 Jun 2023 22:10:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/mit-6.033-cse-distributed-systems/</guid>
+      <description>
+        
+          
+            Section ***Distributed Systems*** of MIT 6.033 covers: how ***reliable, usable distributed systems*** are able to be built on top of an *unreliable* network.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Networking</title>
+      <link>https://mighten.github.io/2023/05/mit-6.033-cse-networking/</link>
+      <pubDate>Tue, 30 May 2023 18:10:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/05/mit-6.033-cse-networking/</guid>
+      <description>
+        
+          
+            Section ***Networking*** of MIT 6.033: how the ***Internet*** is designed to *scale* and its various applications.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Operating System</title>
+      <link>https://mighten.github.io/2023/04/mit-6.033-cse-operating-system/</link>
+      <pubDate>Thu, 06 Apr 2023 15:06:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/04/mit-6.033-cse-operating-system/</guid>
+      <description>
+        
+          
+            Section ***Operating Systems*** of MIT 6.033 covers common *design patterns* to limit *complexity* and techniques, like *virtualization* and *abstraction*, to enforce *modularity*.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>DDIA Ch01: Reliable, Scalable, and Maintainable Applications</title>
+      <link>https://mighten.github.io/2022/05/ddia-ch01-reliable-scalable-and-maintainable-applications/</link>
+      <pubDate>Thu, 19 May 2022 22:06:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2022/05/ddia-ch01-reliable-scalable-and-maintainable-applications/</guid>
+      <description>
+        
+          
+            *Chapter 01: Reliable, Scalable, and Maintainable Applications* of **Designing Data-Intensive Applications**
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

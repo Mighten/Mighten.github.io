@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discrete Math on Mighten&#39;s Blog</title>
+    <link>https://mighten.github.io/series/discrete-math/</link>
+    <description>Recent content in Discrete Math on Mighten&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Mighten Dai</copyright>
+    <lastBuildDate>Wed, 23 Aug 2023 11:17:00 +0800</lastBuildDate><atom:link href="https://mighten.github.io/series/discrete-math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discrete Math Ch02 Logic of Compound Statements</title>
+      <link>https://mighten.github.io/2023/08/discrete-math-ch02-logic-of-compound-statements/</link>
+      <pubDate>Wed, 23 Aug 2023 11:17:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/08/discrete-math-ch02-logic-of-compound-statements/</guid>
+      <description>
+        
+          
+            This is the reading note for Chapter 02 of the book *Discrete Mathematic with Applications*.
+
+Chapter 02 &#34;The Logic of Compound Statements&#34; introduces the basics of **propositional logic**. It explores how *statements* are combined using *logical connectives*, explains different forms of *conditional statements*, and discusses *valid arguments* and *common fallacies*.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Discrete Math Ch01 Speaking Mathematically</title>
+      <link>https://mighten.github.io/2023/08/discrete-math-ch01-speaking-mathematically/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/08/discrete-math-ch01-speaking-mathematically/</guid>
+      <description>
+        
+          
+            This is the reading note for Chapter 01 of the book *Discrete Mathematic with Applications*.
+
+Chapter 01 &#34;Speaking Mathematically&#34; introduces foundation for mathematical thought, the language of *variables*, *sets*, *relations*, and *functions*.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

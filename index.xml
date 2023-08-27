@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mighten&#39;s Blog</title>
+    <link>https://mighten.github.io/</link>
+    <description>Recent content on Mighten&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Mighten Dai</copyright>
+    <lastBuildDate>Wed, 23 Aug 2023 11:17:00 +0800</lastBuildDate><atom:link href="https://mighten.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discrete Math Ch02 Logic of Compound Statements</title>
+      <link>https://mighten.github.io/2023/08/discrete-math-ch02-logic-of-compound-statements/</link>
+      <pubDate>Wed, 23 Aug 2023 11:17:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/08/discrete-math-ch02-logic-of-compound-statements/</guid>
+      <description>
+        
+          
+            This is the reading note for Chapter 02 of the book *Discrete Mathematic with Applications*.
+
+Chapter 02 &#34;The Logic of Compound Statements&#34; introduces the basics of **propositional logic**. It explores how *statements* are combined using *logical connectives*, explains different forms of *conditional statements*, and discusses *valid arguments* and *common fallacies*.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Discrete Math Ch01 Speaking Mathematically</title>
+      <link>https://mighten.github.io/2023/08/discrete-math-ch01-speaking-mathematically/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/08/discrete-math-ch01-speaking-mathematically/</guid>
+      <description>
+        
+          
+            This is the reading note for Chapter 01 of the book *Discrete Mathematic with Applications*.
+
+Chapter 01 &#34;Speaking Mathematically&#34; introduces foundation for mathematical thought, the language of *variables*, *sets*, *relations*, and *functions*.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Spring Framework</title>
+      <link>https://mighten.github.io/2023/07/spring-framework/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/07/spring-framework/</guid>
+      <description>
+        
+          
+            ***Spring Framework*** is a Java platform that provides comprehensive *infrastructure support* for developing Java applications.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>https://mighten.github.io/2023/06/maven/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/maven/</guid>
+      <description>
+        
+          
+            ***Maven*** is a *project management tool* that is based on *POM* (*project object model*). It is used for **projects build**, **dependency** and **documentation**.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://mighten.github.io/2023/06/docker/</link>
+      <pubDate>Sat, 17 Jun 2023 23:10:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/docker/</guid>
+      <description>
+        
+          
+            ***Docker*** is a platform for *developing*, *shipping*, and *deploying* applications quickly in **portable, self-sufficient containers**, and is used in the **Continuous Deployment (CD)** stage of the **DevOps** ecosystem.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>PuTTY with OpenSSH</title>
+      <link>https://mighten.github.io/2023/06/putty-with-openssh/</link>
+      <pubDate>Sat, 17 Jun 2023 22:08:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/putty-with-openssh/</guid>
+      <description>
+        
+          
+            Today we use ***OpenSSH*** and ***PuTTY*** to log in remote computers.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Security</title>
+      <link>https://mighten.github.io/2023/06/mit-6.033-cse-security/</link>
+      <pubDate>Tue, 13 Jun 2023 09:00:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/mit-6.033-cse-security/</guid>
+      <description>
+        
+          
+            Section ***Security*** of MIT 6.033 shows ***common pitfalls*** in the security of computer systems, and ways to *combat* them.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Distributed Systems</title>
+      <link>https://mighten.github.io/2023/06/mit-6.033-cse-distributed-systems/</link>
+      <pubDate>Tue, 06 Jun 2023 22:10:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/mit-6.033-cse-distributed-systems/</guid>
+      <description>
+        
+          
+            Section ***Distributed Systems*** of MIT 6.033 covers: how ***reliable, usable distributed systems*** are able to be built on top of an *unreliable* network.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Networking</title>
+      <link>https://mighten.github.io/2023/05/mit-6.033-cse-networking/</link>
+      <pubDate>Tue, 30 May 2023 18:10:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/05/mit-6.033-cse-networking/</guid>
+      <description>
+        
+          
+            Section ***Networking*** of MIT 6.033: how the ***Internet*** is designed to *scale* and its various applications.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Operating System</title>
+      <link>https://mighten.github.io/2023/04/mit-6.033-cse-operating-system/</link>
+      <pubDate>Thu, 06 Apr 2023 15:06:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/04/mit-6.033-cse-operating-system/</guid>
+      <description>
+        
+          
+            Section ***Operating Systems*** of MIT 6.033 covers common *design patterns* to limit *complexity* and techniques, like *virtualization* and *abstraction*, to enforce *modularity*.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Linked List</title>
+      <link>https://mighten.github.io/2023/04/linked-list/</link>
+      <pubDate>Wed, 05 Apr 2023 22:22:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/04/linked-list/</guid>
+      <description>
+        
+          
+            A Linked List is a *data structure* that stores data into a series of *connected nodes*, and thus it can be dynamically allocated.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Servlet</title>
+      <link>https://mighten.github.io/2023/03/servlet/</link>
+      <pubDate>Thu, 30 Mar 2023 18:05:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/03/servlet/</guid>
+      <description>
+        
+          
+            A *Servlet* is a *Java* programming language *class*, which is executed in *Web Server* and responsible for *dynamic* content generation in a portable way. *Servlet* extends the capabilities of servers that host applications accessed by means of a *request-response programming model*.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>How to Sign Our Git Commits with GPG</title>
+      <link>https://mighten.github.io/2022/05/how-to-sign-our-git-commits-with-gpg/</link>
+      <pubDate>Fri, 20 May 2022 13:54:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2022/05/how-to-sign-our-git-commits-with-gpg/</guid>
+      <description>
+        
+          
+            In this post, we talk about how to use GPG to sign a Git commit.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>DDIA Ch01: Reliable, Scalable, and Maintainable Applications</title>
+      <link>https://mighten.github.io/2022/05/ddia-ch01-reliable-scalable-and-maintainable-applications/</link>
+      <pubDate>Thu, 19 May 2022 22:06:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2022/05/ddia-ch01-reliable-scalable-and-maintainable-applications/</guid>
+      <description>
+        
+          
+            *Chapter 01: Reliable, Scalable, and Maintainable Applications* of **Designing Data-Intensive Applications**
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Binary Tree NonRecursive InOrder</title>
+      <link>https://mighten.github.io/2022/05/binary-tree-nonrecursive-inorder/</link>
+      <pubDate>Mon, 16 May 2022 22:37:50 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2022/05/binary-tree-nonrecursive-inorder/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi there, let&#39;s talk about how to nonrecursively do a In-Order traversal for a Binary Tree.&lt;/p&gt;
+&lt;p&gt;A Binary Tree consists of 3 parts: the node itself, pointer to the left child, pointer to the right child.&lt;/p&gt;
+&lt;p&gt;An In-Order Traversal is to access the leftmost child firstly, then the node itself, and finally the right child.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://mighten.github.io/2022/05/hello-world/</link>
+      <pubDate>Sun, 15 May 2022 19:28:07 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2022/05/hello-world/</guid>
+      <description>
+        
+          
+            How to use Hugo to build a personal blog, and publish it onto GitHub Pages.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
