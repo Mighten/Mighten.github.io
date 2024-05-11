@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mighten&#39;s Blog</title>
+    <link>https://mighten.github.io/</link>
+    <description>Recent content on Mighten&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Mighten Dai</copyright>
+    <lastBuildDate>Thu, 09 May 2024 13:51:00 +0800</lastBuildDate><atom:link href="https://mighten.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KIA CH03 Pods: running containers in Kubernetes</title>
+      <link>https://mighten.github.io/2024/05/kia-ch03-pods-running-containers-in-kubernetes/</link>
+      <pubDate>Thu, 09 May 2024 13:51:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2024/05/kia-ch03-pods-running-containers-in-kubernetes/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi there.&lt;/p&gt;
+&lt;p&gt;Today, let us read  &lt;em&gt;Chapter 03: Pods - running containers in Kubernetes (Part II: Core Concepts)&lt;/em&gt; of &lt;strong&gt;Kubernetes in Action&lt;/strong&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Creating, running, and stopping &lt;em&gt;pods&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Organizing &lt;em&gt;pods&lt;/em&gt; and other &lt;em&gt;resources&lt;/em&gt; with &lt;em&gt;labels&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Performing an operation on &lt;em&gt;all pods&lt;/em&gt; with a specific &lt;em&gt;label&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Using &lt;em&gt;namespaces&lt;/em&gt; to split &lt;em&gt;pods&lt;/em&gt; into &lt;em&gt;non-overlapping groups&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Scheduling&lt;/em&gt; pods onto specific types of &lt;em&gt;worker nodes&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>KIA CH02 First Steps with Docker and Kubernetes</title>
+      <link>https://mighten.github.io/2024/05/kia-ch02-first-steps-with-docker-and-kubernetes/</link>
+      <pubDate>Tue, 07 May 2024 15:45:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2024/05/kia-ch02-first-steps-with-docker-and-kubernetes/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi there.&lt;/p&gt;
+&lt;p&gt;Today, let us read the &lt;em&gt;Chapter 02: First Steps with Docker and Kubernetes (Part I: Overview)&lt;/em&gt; of &lt;strong&gt;Kubernetes in Action&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Creating, running, and sharing a container image with Docker&lt;/li&gt;
+&lt;li&gt;Running a &lt;em&gt;single-node&lt;/em&gt; Kubernetes cluster locally, with &lt;em&gt;Minikube&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Setting up and using the &lt;em&gt;kubectl&lt;/em&gt; command-line client&lt;/li&gt;
+&lt;li&gt;Deploying an app on Kubernetes and &lt;em&gt;scaling&lt;/em&gt; it horizontally&lt;/li&gt;
+&lt;/ol&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>KIA CH01 Introducing Kubernetes</title>
+      <link>https://mighten.github.io/2024/05/kia-ch01-introducing-kubernetes/</link>
+      <pubDate>Thu, 02 May 2024 17:15:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2024/05/kia-ch01-introducing-kubernetes/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi there.&lt;/p&gt;
+&lt;p&gt;Today, let us read the &lt;em&gt;Chapter 01: Introducing Kubernetes (Part I: Overview)&lt;/em&gt; of &lt;strong&gt;Kubernetes in Action&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the history of software developing&lt;/li&gt;
+&lt;li&gt;isolation by containers&lt;/li&gt;
+&lt;li&gt;how containers and Docker are used by Kubernetes&lt;/li&gt;
+&lt;li&gt;how to simplify works by Kubernetes&lt;/li&gt;
+&lt;/ol&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Spring Framework</title>
+      <link>https://mighten.github.io/2023/07/spring-framework/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/07/spring-framework/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi there!&lt;/p&gt;
+&lt;p&gt;In this blog, we talk about &lt;em&gt;&lt;strong&gt;Spring Framework&lt;/strong&gt;&lt;/em&gt;, a Java platform that provides comprehensive infrastructure support for developing Java applications. The content of this blog is shown below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Architecture&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Spring IoC Container&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Spring Beans&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Dependency Injection (DI)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Spring Annotations&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Aspect Oriented Programming (AOP)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>https://mighten.github.io/2023/06/maven/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/maven/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;em&gt;&lt;strong&gt;Maven&lt;/strong&gt;&lt;/em&gt; is a &lt;em&gt;project management tool&lt;/em&gt; that is based on &lt;em&gt;POM&lt;/em&gt; (&lt;em&gt;project object model&lt;/em&gt;). It is used for &lt;strong&gt;projects build&lt;/strong&gt;, &lt;strong&gt;dependency&lt;/strong&gt; and &lt;strong&gt;documentation&lt;/strong&gt;.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://mighten.github.io/2023/06/docker/</link>
+      <pubDate>Sat, 17 Jun 2023 23:10:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/docker/</guid>
+      <description>
+        
+          
+            ***Docker*** is a platform for *developing*, *shipping*, and *deploying* applications quickly in **portable, self-sufficient containers**, and is used in the **Continuous Deployment (CD)** stage of the **DevOps** ecosystem.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>PuTTY with OpenSSH</title>
+      <link>https://mighten.github.io/2023/06/putty-with-openssh/</link>
+      <pubDate>Sat, 17 Jun 2023 22:08:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/putty-with-openssh/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi!&lt;/p&gt;
+&lt;p&gt;Today we use &lt;em&gt;&lt;strong&gt;OpenSSH&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;PuTTY&lt;/strong&gt;&lt;/em&gt; to log in remote computers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openssh.com/&#34;&gt;&lt;strong&gt;OpenSSH&lt;/strong&gt;&lt;/a&gt; is an open-source version of the &lt;em&gt;Secure Shell&lt;/em&gt; (SSH) tools used by administrators of remote systems&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.chiark.greenend.org.uk/~sgtatham/putty/&#34;&gt;&lt;em&gt;&lt;strong&gt;PuTTY&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; is a free implementation of &lt;em&gt;SSH&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Security</title>
+      <link>https://mighten.github.io/2023/06/mit-6.033-cse-security/</link>
+      <pubDate>Tue, 13 Jun 2023 09:00:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/mit-6.033-cse-security/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/&#34;&gt;MIT 6.033&lt;/a&gt; (&lt;em&gt;Computer System Engineering&lt;/em&gt;) covers 4 parts: &lt;em&gt;Operating Systems&lt;/em&gt;, &lt;em&gt;Networking&lt;/em&gt;, &lt;em&gt;Distributed Systems&lt;/em&gt;, and &lt;em&gt;Security&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This is the course note for Part IV: &lt;em&gt;&lt;strong&gt;Security&lt;/strong&gt;&lt;/em&gt;. And in this section, we mainly focus on &lt;em&gt;&lt;strong&gt;common pitfalls&lt;/strong&gt;&lt;/em&gt; in the security of computer systems, and how to &lt;em&gt;combat&lt;/em&gt; them.&lt;/p&gt;
+&lt;p&gt;To build a secure system, we need to be clear about two aspects:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;security policy&lt;/em&gt; (goal)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;threat model&lt;/em&gt; (assumptions on adversaries)&lt;/li&gt;
+&lt;/ol&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Distributed Systems</title>
+      <link>https://mighten.github.io/2023/06/mit-6.033-cse-distributed-systems/</link>
+      <pubDate>Tue, 06 Jun 2023 22:10:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/mit-6.033-cse-distributed-systems/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/&#34;&gt;MIT 6.033&lt;/a&gt; (&lt;em&gt;Computer System Engineering&lt;/em&gt;) covers 4 parts: &lt;em&gt;Operating Systems&lt;/em&gt;, &lt;em&gt;Networking&lt;/em&gt;, &lt;em&gt;Distributed Systems&lt;/em&gt;, and &lt;em&gt;Security&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This is the course note for Part III: &lt;em&gt;&lt;strong&gt;Distributed Systems&lt;/strong&gt;&lt;/em&gt;. And in this section, we mainly focus on: How &lt;em&gt;&lt;strong&gt;reliable, usable distributed systems&lt;/strong&gt;&lt;/em&gt; are able to be built on top of an &lt;em&gt;unreliable&lt;/em&gt; network.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Networking</title>
+      <link>https://mighten.github.io/2023/05/mit-6.033-cse-networking/</link>
+      <pubDate>Tue, 30 May 2023 18:10:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/05/mit-6.033-cse-networking/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/&#34;&gt;MIT 6.033&lt;/a&gt; (&lt;em&gt;Computer System Engineering&lt;/em&gt;) covers 4 parts: &lt;em&gt;Operating Systems&lt;/em&gt;, &lt;em&gt;Networking&lt;/em&gt;, &lt;em&gt;Distributed Systems&lt;/em&gt;, and &lt;em&gt;Security&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This is the course note for Part II: &lt;em&gt;&lt;strong&gt;Networking&lt;/strong&gt;&lt;/em&gt;. And in this section, we mainly focus on: how the &lt;em&gt;&lt;strong&gt;Internet&lt;/strong&gt;&lt;/em&gt; is designed to &lt;em&gt;scale&lt;/em&gt; and its various applications.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Operating System</title>
+      <link>https://mighten.github.io/2023/04/mit-6.033-cse-operating-system/</link>
+      <pubDate>Thu, 06 Apr 2023 15:06:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/04/mit-6.033-cse-operating-system/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/&#34;&gt;MIT 6.033&lt;/a&gt; (&lt;em&gt;Computer System Engineering&lt;/em&gt;) covers 4 parts: &lt;em&gt;Operating Systems&lt;/em&gt;, &lt;em&gt;Networking&lt;/em&gt;, &lt;em&gt;Distributed Systems&lt;/em&gt;, and &lt;em&gt;Security&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This is the course note for Part I: &lt;em&gt;&lt;strong&gt;Operating Systems&lt;/strong&gt;&lt;/em&gt;. And in this section, we mainly focus on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How common &lt;em&gt;design patterns&lt;/em&gt; in computer system — such as &lt;em&gt;abstraction&lt;/em&gt; and &lt;em&gt;modularity&lt;/em&gt; — are used to limit &lt;em&gt;complexity&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;How operating systems use &lt;em&gt;virtualization&lt;/em&gt; and &lt;em&gt;abstraction&lt;/em&gt; to enforce &lt;em&gt;modularity&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Linked List</title>
+      <link>https://mighten.github.io/2023/04/linked-list/</link>
+      <pubDate>Wed, 05 Apr 2023 22:22:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/04/linked-list/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Today, let&#39;s talk about &lt;strong&gt;Linked List&lt;/strong&gt; algorithms that are frequently used.&lt;/p&gt;
+&lt;p&gt;A Linked List is a &lt;em&gt;data structure&lt;/em&gt; that stores data into a series of &lt;em&gt;connected nodes&lt;/em&gt;, and thus it can be dynamically allocated. For each node, it contains 2 fields: the &lt;code&gt;val&lt;/code&gt; that stores data, and the &lt;code&gt;next&lt;/code&gt; that points to the next node.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Servlet</title>
+      <link>https://mighten.github.io/2023/03/servlet/</link>
+      <pubDate>Thu, 30 Mar 2023 18:05:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/03/servlet/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi there, todaly let&#39;s talk about &lt;strong&gt;Servlet&lt;/strong&gt; in a nutshell.&lt;/p&gt;
+&lt;p&gt;A &lt;em&gt;Servlet&lt;/em&gt; is a &lt;em&gt;Java&lt;/em&gt; programming language &lt;em&gt;class&lt;/em&gt;, which is executed in &lt;em&gt;Web Server&lt;/em&gt; and responsible for &lt;em&gt;dynamic&lt;/em&gt; content generation in a portable way.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Servlet&lt;/em&gt; extends the capabilities of servers that host applications accessed by means of a &lt;em&gt;request-response programming model&lt;/em&gt;.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>How to Sign Our Git Commits with GPG</title>
+      <link>https://mighten.github.io/2022/05/how-to-sign-our-git-commits-with-gpg/</link>
+      <pubDate>Fri, 20 May 2022 13:54:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2022/05/how-to-sign-our-git-commits-with-gpg/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hello!&lt;/p&gt;
+&lt;p&gt;Today, let&#39;s talk about signing a &lt;em&gt;git commit&lt;/em&gt; with &lt;a href=&#34;https://gnupg.org/&#34;&gt;GPG&lt;/a&gt;, an encryption engine for signing and signature verification.&lt;/p&gt;
+&lt;p&gt;When it comes to work across the Internet, it&#39;s recommended that we add a cryptographic signature to our commit, which provides some sort of assurance that a commit is originated from us, rather than from an impersonator.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>DDIA Ch01: Reliable, Scalable, and Maintainable Applications</title>
+      <link>https://mighten.github.io/2022/05/ddia-ch01-reliable-scalable-and-maintainable-applications/</link>
+      <pubDate>Thu, 19 May 2022 22:06:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2022/05/ddia-ch01-reliable-scalable-and-maintainable-applications/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi!&lt;/p&gt;
+&lt;p&gt;Let&#39;s read the Chapter 01: &lt;em&gt;Reliable, Scalable, and Maintainable Applications&lt;/em&gt; of &lt;a href=&#34;https://dataintensive.net/&#34;&gt;&lt;em&gt;Designing Data-Intensive Applications&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It introduces the terminology and approach that we are going to use throughout the book, and it also explores some fundamental ways of thinking about &lt;em&gt;&lt;strong&gt;data-intensive applications&lt;/strong&gt;&lt;/em&gt;: general properties (nonfunctional requirements) such as &lt;em&gt;&lt;strong&gt;reliability&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;scalability&lt;/strong&gt;&lt;/em&gt;, and &lt;em&gt;&lt;strong&gt;maintainability&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Binary Tree NonRecursive InOrder</title>
+      <link>https://mighten.github.io/2022/05/binary-tree-nonrecursive-inorder/</link>
+      <pubDate>Mon, 16 May 2022 22:37:50 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2022/05/binary-tree-nonrecursive-inorder/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi there, let&#39;s talk about how to nonrecursively do a In-Order traversal for a Binary Tree.&lt;/p&gt;
+&lt;p&gt;A Binary Tree consists of 3 parts: the node itself, pointer to the left child, pointer to the right child.&lt;/p&gt;
+&lt;p&gt;An In-Order Traversal is to access the leftmost child firstly, then the node itself, and finally the right child.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://mighten.github.io/2022/05/hello-world/</link>
+      <pubDate>Sun, 15 May 2022 19:28:07 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2022/05/hello-world/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hello World!&lt;/p&gt;
+&lt;p&gt;This is my first blog post. Today, let&#39;s talk about writing a &lt;code&gt;Markdown&lt;/code&gt; blog with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, and eventually deploying it on GitHub Pages.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Hugo&lt;/code&gt; is a static HTML and CSS website generator, which allows us to concentrate on the contents rather than the layout tricks.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MIT 6.033 on Mighten&#39;s Blog</title>
+    <link>https://mighten.github.io/series/mit-6.033/</link>
+    <description>Recent content in MIT 6.033 on Mighten&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Mighten Dai</copyright>
+    <lastBuildDate>Tue, 13 Jun 2023 09:00:00 +0800</lastBuildDate><atom:link href="https://mighten.github.io/series/mit-6.033/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIT 6.033 CSE Security</title>
+      <link>https://mighten.github.io/2023/06/mit-6.033-cse-security/</link>
+      <pubDate>Tue, 13 Jun 2023 09:00:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/mit-6.033-cse-security/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/&#34;&gt;MIT 6.033&lt;/a&gt; (&lt;em&gt;Computer System Engineering&lt;/em&gt;) covers 4 parts: &lt;em&gt;Operating Systems&lt;/em&gt;, &lt;em&gt;Networking&lt;/em&gt;, &lt;em&gt;Distributed Systems&lt;/em&gt;, and &lt;em&gt;Security&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This is the course note for Part IV: &lt;em&gt;&lt;strong&gt;Security&lt;/strong&gt;&lt;/em&gt;. And in this section, we mainly focus on &lt;em&gt;&lt;strong&gt;common pitfalls&lt;/strong&gt;&lt;/em&gt; in the security of computer systems, and how to &lt;em&gt;combat&lt;/em&gt; them.&lt;/p&gt;
+&lt;p&gt;To build a secure system, we need to be clear about two aspects:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;security policy&lt;/em&gt; (goal)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;threat model&lt;/em&gt; (assumptions on adversaries)&lt;/li&gt;
+&lt;/ol&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Distributed Systems</title>
+      <link>https://mighten.github.io/2023/06/mit-6.033-cse-distributed-systems/</link>
+      <pubDate>Tue, 06 Jun 2023 22:10:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/mit-6.033-cse-distributed-systems/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/&#34;&gt;MIT 6.033&lt;/a&gt; (&lt;em&gt;Computer System Engineering&lt;/em&gt;) covers 4 parts: &lt;em&gt;Operating Systems&lt;/em&gt;, &lt;em&gt;Networking&lt;/em&gt;, &lt;em&gt;Distributed Systems&lt;/em&gt;, and &lt;em&gt;Security&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This is the course note for Part III: &lt;em&gt;&lt;strong&gt;Distributed Systems&lt;/strong&gt;&lt;/em&gt;. And in this section, we mainly focus on: How &lt;em&gt;&lt;strong&gt;reliable, usable distributed systems&lt;/strong&gt;&lt;/em&gt; are able to be built on top of an &lt;em&gt;unreliable&lt;/em&gt; network.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Networking</title>
+      <link>https://mighten.github.io/2023/05/mit-6.033-cse-networking/</link>
+      <pubDate>Tue, 30 May 2023 18:10:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/05/mit-6.033-cse-networking/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/&#34;&gt;MIT 6.033&lt;/a&gt; (&lt;em&gt;Computer System Engineering&lt;/em&gt;) covers 4 parts: &lt;em&gt;Operating Systems&lt;/em&gt;, &lt;em&gt;Networking&lt;/em&gt;, &lt;em&gt;Distributed Systems&lt;/em&gt;, and &lt;em&gt;Security&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This is the course note for Part II: &lt;em&gt;&lt;strong&gt;Networking&lt;/strong&gt;&lt;/em&gt;. And in this section, we mainly focus on: how the &lt;em&gt;&lt;strong&gt;Internet&lt;/strong&gt;&lt;/em&gt; is designed to &lt;em&gt;scale&lt;/em&gt; and its various applications.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MIT 6.033 CSE Operating System</title>
+      <link>https://mighten.github.io/2023/04/mit-6.033-cse-operating-system/</link>
+      <pubDate>Thu, 06 Apr 2023 15:06:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/04/mit-6.033-cse-operating-system/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/&#34;&gt;MIT 6.033&lt;/a&gt; (&lt;em&gt;Computer System Engineering&lt;/em&gt;) covers 4 parts: &lt;em&gt;Operating Systems&lt;/em&gt;, &lt;em&gt;Networking&lt;/em&gt;, &lt;em&gt;Distributed Systems&lt;/em&gt;, and &lt;em&gt;Security&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This is the course note for Part I: &lt;em&gt;&lt;strong&gt;Operating Systems&lt;/strong&gt;&lt;/em&gt;. And in this section, we mainly focus on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How common &lt;em&gt;design patterns&lt;/em&gt; in computer system — such as &lt;em&gt;abstraction&lt;/em&gt; and &lt;em&gt;modularity&lt;/em&gt; — are used to limit &lt;em&gt;complexity&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;How operating systems use &lt;em&gt;virtualization&lt;/em&gt; and &lt;em&gt;abstraction&lt;/em&gt; to enforce &lt;em&gt;modularity&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

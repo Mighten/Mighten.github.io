@@ -1,0 +1,46 @@
+---
+title: "Template Name"
+
+description: "Template Description"
+summary: 'Template Summary with "quotation" mark
+
+And it can be multi-liner.
+
+All of the content shown in summary will be used as blog digest shown in index'
+
+category: "misc"
+series: "Series-Name"  # Caution!!! Series Name canNOT be wrapped up with Square brackets !!!
+tags: ["Tag Name 1", "Tag Name 2"]
+
+
+date:    2023-07-19T00:00:00+08:00
+lastmod: 2023-08-23T00:00:00+08:00
+
+plantuml: false
+katex: false
+mathjax: false
+mermaid: false
+utterances: true
+
+draft: true
+---
+
+This is Template Summary.
+
+# 1. LEVEL-1 TITLE
+
+## 1.1 Level 2 Title
+
+### 1.1.1 Level 3 Title
+
+### 1.1.2 Level 3 Title
+
+## 1.2 Level 2 Title
+
+# 2. LEVEL-1 TITLE
+
+## 2.1 Level 2 Title
+
+### 2.1.1 Level 3 Title
+
+# 3. CONCLUSION

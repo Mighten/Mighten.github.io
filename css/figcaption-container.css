@@ -1,0 +1,8 @@
+/* figcaption-container.css */
+
+/* Center the .align-center-figcaption div horizontally */
+.figcaption-container {
+  align-content: center;
+  text-align: center;
+}
+  

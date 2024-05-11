@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DDIA on Mighten&#39;s Blog</title>
+    <link>https://mighten.github.io/series/ddia/</link>
+    <description>Recent content in DDIA on Mighten&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Mighten Dai</copyright>
+    <lastBuildDate>Thu, 19 May 2022 22:06:00 +0800</lastBuildDate><atom:link href="https://mighten.github.io/series/ddia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDIA Ch01: Reliable, Scalable, and Maintainable Applications</title>
+      <link>https://mighten.github.io/2022/05/ddia-ch01-reliable-scalable-and-maintainable-applications/</link>
+      <pubDate>Thu, 19 May 2022 22:06:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2022/05/ddia-ch01-reliable-scalable-and-maintainable-applications/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi!&lt;/p&gt;
+&lt;p&gt;Let&#39;s read the Chapter 01: &lt;em&gt;Reliable, Scalable, and Maintainable Applications&lt;/em&gt; of &lt;a href=&#34;https://dataintensive.net/&#34;&gt;&lt;em&gt;Designing Data-Intensive Applications&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It introduces the terminology and approach that we are going to use throughout the book, and it also explores some fundamental ways of thinking about &lt;em&gt;&lt;strong&gt;data-intensive applications&lt;/strong&gt;&lt;/em&gt;: general properties (nonfunctional requirements) such as &lt;em&gt;&lt;strong&gt;reliability&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;scalability&lt;/strong&gt;&lt;/em&gt;, and &lt;em&gt;&lt;strong&gt;maintainability&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

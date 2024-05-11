@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on Mighten&#39;s Blog</title>
+    <link>https://mighten.github.io/tags/devops/</link>
+    <description>Recent content in DevOps on Mighten&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Mighten Dai</copyright>
+    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://mighten.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maven</title>
+      <link>https://mighten.github.io/2023/06/maven/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/maven/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;em&gt;&lt;strong&gt;Maven&lt;/strong&gt;&lt;/em&gt; is a &lt;em&gt;project management tool&lt;/em&gt; that is based on &lt;em&gt;POM&lt;/em&gt; (&lt;em&gt;project object model&lt;/em&gt;). It is used for &lt;strong&gt;projects build&lt;/strong&gt;, &lt;strong&gt;dependency&lt;/strong&gt; and &lt;strong&gt;documentation&lt;/strong&gt;.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://mighten.github.io/2023/06/docker/</link>
+      <pubDate>Sat, 17 Jun 2023 23:10:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/docker/</guid>
+      <description>
+        
+          
+            ***Docker*** is a platform for *developing*, *shipping*, and *deploying* applications quickly in **portable, self-sufficient containers**, and is used in the **Continuous Deployment (CD)** stage of the **DevOps** ecosystem.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>PuTTY with OpenSSH</title>
+      <link>https://mighten.github.io/2023/06/putty-with-openssh/</link>
+      <pubDate>Sat, 17 Jun 2023 22:08:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2023/06/putty-with-openssh/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi!&lt;/p&gt;
+&lt;p&gt;Today we use &lt;em&gt;&lt;strong&gt;OpenSSH&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;PuTTY&lt;/strong&gt;&lt;/em&gt; to log in remote computers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openssh.com/&#34;&gt;&lt;strong&gt;OpenSSH&lt;/strong&gt;&lt;/a&gt; is an open-source version of the &lt;em&gt;Secure Shell&lt;/em&gt; (SSH) tools used by administrators of remote systems&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.chiark.greenend.org.uk/~sgtatham/putty/&#34;&gt;&lt;em&gt;&lt;strong&gt;PuTTY&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; is a free implementation of &lt;em&gt;SSH&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

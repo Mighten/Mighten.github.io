@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>k8s on Mighten&#39;s Blog</title>
+    <link>https://mighten.github.io/tags/k8s/</link>
+    <description>Recent content in k8s on Mighten&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Mighten Dai</copyright>
+    <lastBuildDate>Thu, 09 May 2024 13:51:00 +0800</lastBuildDate><atom:link href="https://mighten.github.io/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KIA CH03 Pods: running containers in Kubernetes</title>
+      <link>https://mighten.github.io/2024/05/kia-ch03-pods-running-containers-in-kubernetes/</link>
+      <pubDate>Thu, 09 May 2024 13:51:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2024/05/kia-ch03-pods-running-containers-in-kubernetes/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi there.&lt;/p&gt;
+&lt;p&gt;Today, let us read  &lt;em&gt;Chapter 03: Pods - running containers in Kubernetes (Part II: Core Concepts)&lt;/em&gt; of &lt;strong&gt;Kubernetes in Action&lt;/strong&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Creating, running, and stopping &lt;em&gt;pods&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Organizing &lt;em&gt;pods&lt;/em&gt; and other &lt;em&gt;resources&lt;/em&gt; with &lt;em&gt;labels&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Performing an operation on &lt;em&gt;all pods&lt;/em&gt; with a specific &lt;em&gt;label&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Using &lt;em&gt;namespaces&lt;/em&gt; to split &lt;em&gt;pods&lt;/em&gt; into &lt;em&gt;non-overlapping groups&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Scheduling&lt;/em&gt; pods onto specific types of &lt;em&gt;worker nodes&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>KIA CH02 First Steps with Docker and Kubernetes</title>
+      <link>https://mighten.github.io/2024/05/kia-ch02-first-steps-with-docker-and-kubernetes/</link>
+      <pubDate>Tue, 07 May 2024 15:45:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2024/05/kia-ch02-first-steps-with-docker-and-kubernetes/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi there.&lt;/p&gt;
+&lt;p&gt;Today, let us read the &lt;em&gt;Chapter 02: First Steps with Docker and Kubernetes (Part I: Overview)&lt;/em&gt; of &lt;strong&gt;Kubernetes in Action&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Creating, running, and sharing a container image with Docker&lt;/li&gt;
+&lt;li&gt;Running a &lt;em&gt;single-node&lt;/em&gt; Kubernetes cluster locally, with &lt;em&gt;Minikube&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Setting up and using the &lt;em&gt;kubectl&lt;/em&gt; command-line client&lt;/li&gt;
+&lt;li&gt;Deploying an app on Kubernetes and &lt;em&gt;scaling&lt;/em&gt; it horizontally&lt;/li&gt;
+&lt;/ol&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>KIA CH01 Introducing Kubernetes</title>
+      <link>https://mighten.github.io/2024/05/kia-ch01-introducing-kubernetes/</link>
+      <pubDate>Thu, 02 May 2024 17:15:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2024/05/kia-ch01-introducing-kubernetes/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hi there.&lt;/p&gt;
+&lt;p&gt;Today, let us read the &lt;em&gt;Chapter 01: Introducing Kubernetes (Part I: Overview)&lt;/em&gt; of &lt;strong&gt;Kubernetes in Action&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the history of software developing&lt;/li&gt;
+&lt;li&gt;isolation by containers&lt;/li&gt;
+&lt;li&gt;how containers and Docker are used by Kubernetes&lt;/li&gt;
+&lt;li&gt;how to simplify works by Kubernetes&lt;/li&gt;
+&lt;/ol&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

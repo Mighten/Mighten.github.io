@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on Mighten&#39;s Blog</title>
+    <link>https://mighten.github.io/tags/misc/</link>
+    <description>Recent content in Misc on Mighten&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Mighten Dai</copyright>
+    <lastBuildDate>Fri, 20 May 2022 13:54:00 +0800</lastBuildDate><atom:link href="https://mighten.github.io/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Sign Our Git Commits with GPG</title>
+      <link>https://mighten.github.io/2022/05/how-to-sign-our-git-commits-with-gpg/</link>
+      <pubDate>Fri, 20 May 2022 13:54:00 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2022/05/how-to-sign-our-git-commits-with-gpg/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hello!&lt;/p&gt;
+&lt;p&gt;Today, let&#39;s talk about signing a &lt;em&gt;git commit&lt;/em&gt; with &lt;a href=&#34;https://gnupg.org/&#34;&gt;GPG&lt;/a&gt;, an encryption engine for signing and signature verification.&lt;/p&gt;
+&lt;p&gt;When it comes to work across the Internet, it&#39;s recommended that we add a cryptographic signature to our commit, which provides some sort of assurance that a commit is originated from us, rather than from an impersonator.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://mighten.github.io/2022/05/hello-world/</link>
+      <pubDate>Sun, 15 May 2022 19:28:07 +0800</pubDate>
+      
+      <guid>https://mighten.github.io/2022/05/hello-world/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Hello World!&lt;/p&gt;
+&lt;p&gt;This is my first blog post. Today, let&#39;s talk about writing a &lt;code&gt;Markdown&lt;/code&gt; blog with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, and eventually deploying it on GitHub Pages.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Hugo&lt;/code&gt; is a static HTML and CSS website generator, which allows us to concentrate on the contents rather than the layout tricks.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
