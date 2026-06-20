@@ -1,0 +1,6 @@
+DO NOT DELETE THIS FILE!
+
+This .nojekyll file prevents GitHub Pages from using Jekyll to process the site, 
+ensuring that:
+- Astro resource directories starting with an underscore (_) are not ignored
+- the GitHub Pages renders correctly.
